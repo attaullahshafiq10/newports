@@ -1,0 +1,13 @@
+% example 3: Make a function which takes one input variable and two outputs
+% suppose we have both (Area of circle and Area of rectangular)
+
+function [A1,A2]=area1(x)
+A1 = pi*x^2;          % area of circle
+A2 = x*x;             %
+end
+
+
+
+% [Areaa1, Area2] = area1(6)        --------  Both Arears are visible
+
+% [Areaa1, Area2] = area1(6)        --------  one Arear is visible

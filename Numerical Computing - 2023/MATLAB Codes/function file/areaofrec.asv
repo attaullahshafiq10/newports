@@ -1,0 +1,9 @@
+% example 2: Area of square as an output
+
+function [A]=areaofrec(l,w)
+A = l*w;
+end
+
+
+% now save the file and run it in command line
+% Area = areaofre(x,y)
