@@ -1,4 +1,4 @@
-% Code 2-2 | Bisection Method
+Bisection Method
 clc; clear
 f = @(x) x^2-exp(-x);           %function
 a = 0;                          %left  limit
