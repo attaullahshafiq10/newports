@@ -1,4 +1,4 @@
-% Exampe 3-5 | Newton-Raphson Method
+% Exampe 3-5 - Newton-Raphson Method
 clc; clear
 f = @(x) (1+x)*exp(-x^2)-2*atan(x^2);      %function
 x = 0.5;                                   %start point
